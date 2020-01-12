@@ -17,7 +17,7 @@ should speak with their sales representative. Like all AWS Regions, AWS
 Local Regions are completely isolated from other AWS Regions.
 
 [[Click
-here]{.underline}](https://aws.amazon.com/about-aws/global-infrastructure/) for
+here]](https://aws.amazon.com/about-aws/global-infrastructure/) for
 the most current information.
 
 Each AWS Region has multiple, isolated locations that are known as
@@ -27,4 +27,4 @@ data in multiple locations. Resources aren\'t replicated across AWS
 Regions unless you do so specifically.
 
 Detailed information about Availability Zones can be
-found [[here]{.underline}](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html).
+found [[here]](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html).
