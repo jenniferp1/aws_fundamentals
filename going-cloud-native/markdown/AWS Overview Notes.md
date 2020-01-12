@@ -53,7 +53,7 @@ full advantage of all the business benefits that AWS has to offer.
 
 More details about accessing the AWS Partner Network\--or becoming an
 AWS Partner\--can be found
-at: [[https://aws.amazon.com/partners/]{.underline}](https://aws.amazon.com/partners/).
+at: [[https://aws.amazon.com/partners/]](https://aws.amazon.com/partners/).
 
 AWS Marketplace 
 ---------------
