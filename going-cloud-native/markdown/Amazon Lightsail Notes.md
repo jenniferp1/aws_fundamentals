@@ -9,16 +9,16 @@ storage, data transfer, Domain Name System (DNS) management, and a
 static IP\--for a low, predictable monthly price.
 
 A more detailed introduction from AWS re:Invent 2017 is available
-here: [[https://www.youtube.com/watch?v=29\_LqYnomdg]{.underline}](https://www.youtube.com/watch?v=29_LqYnomdg).
+here: [[https://www.youtube.com/watch?v=29\_LqYnomdg]](https://www.youtube.com/watch?v=29_LqYnomdg).
 Note that pricing has changed (decreased) since this video was created.
 Specific details are on the [[Lightsail web
-page]{.underline}](https://aws.amazon.com/lightsail).
+page]](https://aws.amazon.com/lightsail).
 
 Details on Lightsail and the 30 day trial are available
-at: [[https://aws.amazon.com/lightsail/]{.underline}](https://aws.amazon.com/lightsail/)
+at: [[https://aws.amazon.com/lightsail/]](https://aws.amazon.com/lightsail/)
 
 Lightsail pricing can be found
-here: [[https://aws.amazon.com/lightsail/pricing]{.underline}](https://aws.amazon.com/lightsail/pricing/)
+here: [[https://aws.amazon.com/lightsail/pricing]](https://aws.amazon.com/lightsail/pricing/)
 
 Videos are available here:
-[[https://aws.amazon.com/lightsail/features/?opdp2=features]{.underline}](https://aws.amazon.com/lightsail/features/?opdp2=features)
+[[https://aws.amazon.com/lightsail/features/?opdp2=features]](https://aws.amazon.com/lightsail/features/?opdp2=features)
