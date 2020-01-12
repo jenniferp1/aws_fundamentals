@@ -9,7 +9,7 @@ manage your network's access permissions, and run your image by using as
 many or few systems as you want.
 
 Details on the features and cost of Amazon EC2 are available
-at: [[https://aws.amazon.com/ec2/]{.underline}](https://aws.amazon.com/ec2/)
+at: [[https://aws.amazon.com/ec2/]](https://aws.amazon.com/ec2/)
 
 ### Amazon EC2 instance types
 
@@ -24,4 +24,4 @@ applications. Each instance type includes one or more instance sizes,
 which allows you to scale your resources to the requirements of your
 target workload. Current details about available instance types are
 available
-at: [[https://aws.amazon.com/ec2/instance-types/]{.underline}](https://aws.amazon.com/ec2/instance-types/)
+at: [[https://aws.amazon.com/ec2/instance-types/]](https://aws.amazon.com/ec2/instance-types/)
