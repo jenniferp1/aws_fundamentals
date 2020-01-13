@@ -12,8 +12,14 @@
 - Security on AWS, as well as how to manage costs when using the AWS cloud platform. 
 
 # Additional Links
+[FAQs](FAQs) \
+[Storage](Storage)
+
+## FAQs
 
 - [AWS FAQs](https://aws.amazon.com/efs/faq/)
+
+## Storage
 
 - [Storage on AWS](https://www.missioncloud.com/blog/resource-amazon-ebs-vs-efs-vs-s3-picking-the-best-aws-storage-option-for-your-business) covers comparison and use cases for:
   - Amazon Elastic Block Store (Amazon EBS)
@@ -23,3 +29,5 @@
 - [Storage comparison table](https://rubikscode.net/2019/08/26/choosing-aws-storage-ebs-vs-efs-vs-s3/)
 
 - [Steps for creating an S3 bucket](https://docs.aws.amazon.com/quickstarts/latest/s3backup/step-1-create-bucket.html)
+
+- [Information on EBS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html)
