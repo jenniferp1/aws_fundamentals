@@ -21,3 +21,5 @@
   - Amazon Simple Storage Service (Amazon S3)
 
 - [Storage comparison table](https://rubikscode.net/2019/08/26/choosing-aws-storage-ebs-vs-efs-vs-s3/)
+
+- [Steps for creating an S3 bucket](https://docs.aws.amazon.com/quickstarts/latest/s3backup/step-1-create-bucket.html)
