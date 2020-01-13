@@ -10,3 +10,14 @@
   - Amazon DynomoDB 
 - How to monitor and scale you application on AWS using Amazon CloudWatch and Amazon EC2 Elastic Load Balancing (ELB) and Auto Scaling. 
 - Security on AWS, as well as how to manage costs when using the AWS cloud platform. 
+
+# Additional Links
+
+- [AWS FAQs](https://aws.amazon.com/efs/faq/)
+
+- [Storage on AWS](https://www.missioncloud.com/blog/resource-amazon-ebs-vs-efs-vs-s3-picking-the-best-aws-storage-option-for-your-business) covers comparison and use cases for:
+  - Amazon Elastic Block Store (Amazon EBS)
+  - Amazon Elastic File System (Amazon EFS)
+  - Amazon Simple Storage Service (Amazon S3)
+
+- [Storage comparison table](https://rubikscode.net/2019/08/26/choosing-aws-storage-ebs-vs-efs-vs-s3/)
