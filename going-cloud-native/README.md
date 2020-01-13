@@ -12,8 +12,8 @@
 - Security on AWS, as well as how to manage costs when using the AWS cloud platform. 
 
 # Additional Links
-[FAQs](FAQs) \
-[Storage](Storage)
+[FAQs](#faqs) \
+[Storage](#storage)
 
 ## FAQs
 
